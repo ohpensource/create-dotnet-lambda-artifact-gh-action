@@ -54,7 +54,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: dotnet tool install -g Amazon.Lambda.Tools
         run: dotnet tool install -g Amazon.Lambda.Tools --version 5.2.0
-      - uses: ohpensource/create-dotnet-lambda-artifact-gh-action/action/create-dotnet-lambda-artifact@0.0.0.1
+      - uses: ohpensource/create-dotnet-lambda-artifact-gh-action@0.0.0.1
         name: Create and upload lambda artifact
         with:
           region: $REGION
