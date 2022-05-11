@@ -1,3 +1,9 @@
+# :confetti_ball: 0.0.2.0 (2022-05-11T15:07:15.193Z)
+- - -
+## :bug: Fixes
+* LANZ-2561 updated path to shell script
+- - -
+- - -
 # :confetti_ball: 0.0.1.0 (2022-05-11T14:57:25.783Z)
 - - -
 ## :bug: Fixes
